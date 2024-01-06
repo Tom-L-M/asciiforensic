@@ -18,7 +18,7 @@
 
 const banner = `
     [ASCII-Forensic-js]
-    A JavaScript port of (https://github.com/D4RKW4R3/D4RKW4RE/tree/main), from 'D4RKW4R3'.
+        A JavaScript port of (https://github.com/D4RKW4R3/D4RKW4RE/tree/main), from 'D4RKW4R3'.
 
     Usage:
         asciiforensic.js <mode> [data]
